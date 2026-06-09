@@ -40,6 +40,14 @@
       "image": null,
       "bgcolor": null,
       "fgcolor": null
+    },
+    {
+      "name": "HD มิถุนายน Google Sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1xCxoVaat8VvxI2NSE1vtKqpwya597Gw1AktxglGTSsM/edit?usp=sharing",
+      "emoji": "📝",
+      "image": null,
+      "bgcolor": null,
+      "fgcolor": null
     }
   ]
 }
